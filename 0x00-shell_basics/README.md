@@ -1,7 +1,7 @@
-
+# PROJECT
 This is an ALX project, which the requirements of the project is to make files containing basic Linux(Ubuntu) commands and make them executable.
 
-- TASKS
+## TASKS
 
 1. TASK 0 - Make a file containing a script that prints the absolute path of the current working directory.
 
